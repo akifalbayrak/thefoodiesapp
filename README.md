@@ -23,5 +23,6 @@ NextLevel Food is a platform for foodies to share their favorite recipes with th
 
 ![image](https://github.com/akifalbayrak/thefoodiesapp/assets/142679378/fe926aa0-8aa0-4f96-b6bb-5d001f3108e5)
 
+![image](https://github.com/akifalbayrak/thefoodiesapp/assets/142679378/c707897c-2660-4d7f-b7ab-c8602dda38b4)
 
 ![image](https://github.com/akifalbayrak/thefoodiesapp/assets/142679378/3e62c5c4-7bee-4316-8b34-f5a4006e2aff)
